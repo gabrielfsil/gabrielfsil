@@ -23,5 +23,4 @@
 <div style="display: inline-block" align="center"><br>
      <img height="120" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
      <img height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-     <img height="120" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original-wordmark.svg" />
 </div>
